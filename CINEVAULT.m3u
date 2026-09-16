@@ -1,1 +1,6 @@
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Combined_M3U_11_aHR0cHM6" tvg-name="Somoy TV" tvg-logo="https://ah-media-eug.pages.dev/logos/SomoyTV.png" group-title="Bangla",Somoy TV
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
+#EXTINF:-1 tvg-id="Combined_M3U_15_aHR0cHM6" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="Bangla",Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1 tvg-id="Combined_M3U_23_aHR0cHM6" tvg-name="Ekattor TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla",Ekattor TV
+https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
